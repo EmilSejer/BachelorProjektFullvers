@@ -7,7 +7,7 @@ from PIL import Image
 from LRAlgo import *
 
 class DashboardController:
-
+#Im a comment
     def __init__(self, data_set):
         self.data_set = data_set
         self.linear_regression = LRAlgo(self.data_set)
