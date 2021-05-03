@@ -1,0 +1,123 @@
+digraph {
+	0 [label="reviews_from_critics <= 6.5\nmse = 0.46\nsamples = 321\nvalue = 6.592" fillcolor=red style=filled]
+	1 [label="reviews_from_critics <= 2.5\nmse = 0.302\nsamples = 168\nvalue = 6.262" fillcolor=red style=filled]
+	2 [label="duration <= 81.5\nmse = 0.338\nsamples = 69\nvalue = 6.01" fillcolor="#f7d8c2" style=filled]
+	3 [label="Crime <= 0.5\nmse = 0.24\nsamples = 42\nvalue = 5.758" fillcolor="#f9e2d2" style=filled]
+	4 [label="Drama <= 0.5\nmse = 0.25\nsamples = 40\nvalue = 5.728" fillcolor="#f9e3d3" style=filled]
+	5 [label="mse = 0.312\nsamples = 19\nvalue = 5.627" fillcolor="#fae7d9" style=filled]
+	6 [label="mse = 0.176\nsamples = 21\nvalue = 5.821" fillcolor="#f9e0ce" style=filled]
+	7 [label="mse = -0.0\nsamples = 2\nvalue = 6.1" fillcolor="#f6d5bd" style=filled]
+	8 [label="Romance <= 0.5\nmse = 0.25\nsamples = 27\nvalue = 6.379" fillcolor="#f4caac" style=filled]
+	9 [label="duration <= 92.0\nmse = 0.23\nsamples = 22\nvalue = 6.466" fillcolor="#f3c7a7" style=filled]
+	10 [label="mse = 0.098\nsamples = 9\nvalue = 6.75" fillcolor="#f1bc96" style=filled]
+	11 [label="mse = 0.226\nsamples = 13\nvalue = 6.265" fillcolor="#f5cfb3" style=filled]
+	12 [label="duration <= 84.5\nmse = 0.078\nsamples = 5\nvalue = 5.88" fillcolor="#f8ddca" style=filled]
+	13 [label="mse = 0.0\nsamples = 1\nvalue = 5.5" fillcolor="#fbece1" style=filled]
+	14 [label="mse = 0.052\nsamples = 4\nvalue = 5.975" fillcolor="#f7dac5" style=filled]
+	15 [label="year <= 1928.5\nmse = 0.202\nsamples = 99\nvalue = 6.437" fillcolor=red style=filled]
+	16 [label="duration <= 63.5\nmse = 0.136\nsamples = 62\nvalue = 6.559" fillcolor="#f3c3a1" style=filled]
+	17 [label="Fantasy <= 0.5\nmse = 0.11\nsamples = 7\nvalue = 6.089" fillcolor="#f6d5be" style=filled]
+	18 [label="mse = 0.031\nsamples = 6\nvalue = 5.987" fillcolor="#f7d9c4" style=filled]
+	19 [label="mse = 0.0\nsamples = 1\nvalue = 6.9" fillcolor="#f0b68d" style=filled]
+	20 [label="Family <= 0.5\nmse = 0.108\nsamples = 55\nvalue = 6.618" fillcolor="#f2c19e" style=filled]
+	21 [label="mse = 0.091\nsamples = 54\nvalue = 6.634" fillcolor="#f2c19d" style=filled]
+	22 [label="mse = 0.0\nsamples = 1\nvalue = 5.5" fillcolor="#fbece1" style=filled]
+	23 [label="Action <= 0.5\nmse = 0.245\nsamples = 37\nvalue = 6.2" fillcolor=red style=filled]
+	24 [label="Musical <= 0.5\nmse = 0.209\nsamples = 34\nvalue = 6.255" fillcolor=red style=filled]
+	25 [label="mse = 0.179\nsamples = 29\nvalue = 6.339" fillcolor=red style=filled]
+	26 [label="mse = 0.052\nsamples = 5\nvalue = 5.7" fillcolor="#f9e4d5" style=filled]
+	27 [label="Adventure <= 0.5\nmse = 0.167\nsamples = 3\nvalue = 5.5" fillcolor="#fbece1" style=filled]
+	28 [label="mse = 0.062\nsamples = 2\nvalue = 5.75" fillcolor="#f9e2d2" style=filled]
+	29 [label="mse = 0.0\nsamples = 1\nvalue = 5.0" fillcolor="#ffffff" style=filled]
+	30 [label="reviews_from_critics <= 34.5\nmse = 0.392\nsamples = 153\nvalue = 6.938" fillcolor="#f0b58b" style=filled]
+	31 [label="duration <= 85.5\nmse = 0.31\nsamples = 124\nvalue = 6.791" fillcolor="#f1bb94" style=filled]
+	32 [label="reviews_from_critics <= 21.5\nmse = 0.334\nsamples = 60\nvalue = 6.677" fillcolor="#f2bf9a" style=filled]
+	33 [label="Biography <= 0.5\nmse = 0.298\nsamples = 54\nvalue = 6.61" fillcolor="#f2c29e" style=filled]
+	34 [label="mse = 0.269\nsamples = 53\nvalue = 6.632" fillcolor="#f2c19d" style=filled]
+	35 [label="mse = -0.0\nsamples = 1\nvalue = 5.1" fillcolor="#fefbf9" style=filled]
+	36 [label="Adventure <= 0.5\nmse = 0.309\nsamples = 6\nvalue = 7.2" fillcolor="#eeab7b" style=filled]
+	37 [label="mse = 0.177\nsamples = 5\nvalue = 7.338" fillcolor="#eda673" style=filled]
+	38 [label="mse = -0.0\nsamples = 1\nvalue = 6.1" fillcolor="#f6d5bd" style=filled]
+	39 [label="year <= 1927.5\nmse = 0.262\nsamples = 64\nvalue = 6.9" fillcolor="#f0b68d" style=filled]
+	40 [label="year <= 1923.5\nmse = 0.154\nsamples = 41\nvalue = 7.028" fillcolor="#efb285" style=filled]
+	41 [label="mse = 0.091\nsamples = 14\nvalue = 6.753" fillcolor="#f1bc96" style=filled]
+	42 [label="mse = 0.125\nsamples = 27\nvalue = 7.177" fillcolor="#eeac7c" style=filled]
+	43 [label="Drama <= 0.5\nmse = 0.378\nsamples = 23\nvalue = 6.654" fillcolor="#f2c09c" style=filled]
+	44 [label="mse = 0.228\nsamples = 8\nvalue = 6.222" fillcolor="#f5d0b6" style=filled]
+	45 [label="mse = 0.319\nsamples = 15\nvalue = 6.858" fillcolor="#f0b890" style=filled]
+	46 [label="reviews_from_critics <= 69.0\nmse = 0.188\nsamples = 29\nvalue = 7.638" fillcolor="#ea9a61" style=filled]
+	47 [label="reviews_from_critics <= 55.0\nmse = 0.155\nsamples = 20\nvalue = 7.461" fillcolor="#eca16b" style=filled]
+	48 [label="year <= 1928.5\nmse = 0.093\nsamples = 15\nvalue = 7.6" fillcolor="#eb9c63" style=filled]
+	49 [label="mse = 0.08\nsamples = 11\nvalue = 7.717" fillcolor="#ea975c" style=filled]
+	50 [label="mse = 0.014\nsamples = 4\nvalue = 7.32" fillcolor="#eda674" style=filled]
+	51 [label="Family <= 0.5\nmse = 0.122\nsamples = 5\nvalue = 7.067" fillcolor="#efb083" style=filled]
+	52 [label="mse = 0.05\nsamples = 4\nvalue = 6.94" fillcolor="#f0b58b" style=filled]
+	53 [label="mse = -0.0\nsamples = 1\nvalue = 7.7" fillcolor="#ea985d" style=filled]
+	54 [label="year <= 1924.5\nmse = 0.054\nsamples = 9\nvalue = 8.009" fillcolor="#e78c4a" style=filled]
+	55 [label="reviews_from_critics <= 99.0\nmse = 0.008\nsamples = 4\nvalue = 8.2" fillcolor="#e6853f" style=filled]
+	56 [label="mse = 0.002\nsamples = 3\nvalue = 8.133" fillcolor="#e68743" style=filled]
+	57 [label="mse = 0.0\nsamples = 1\nvalue = 8.3" fillcolor="#e58139" style=filled]
+	58 [label="reviews_from_critics <= 101.5\nmse = 0.036\nsamples = 5\nvalue = 7.85" fillcolor="#e99254" style=filled]
+	59 [label="mse = 0.023\nsamples = 3\nvalue = 7.75" fillcolor="#e9965a" style=filled]
+	60 [label="mse = 0.003\nsamples = 2\nvalue = 8.05" fillcolor="#e78b48" style=filled]
+	0 -> 1
+	1 -> 2
+	2 -> 3
+	3 -> 4
+	4 -> 5
+	4 -> 6
+	3 -> 7
+	2 -> 8
+	8 -> 9
+	9 -> 10
+	9 -> 11
+	8 -> 12
+	12 -> 13
+	12 -> 14
+	1 -> 15
+	15 -> 16
+	16 -> 17
+	17 -> 18
+	17 -> 19
+	16 -> 20
+	20 -> 21
+	20 -> 22
+	15 -> 23
+	23 -> 24
+	24 -> 25
+	24 -> 26
+	23 -> 27
+	27 -> 28
+	27 -> 29
+	0 -> 30
+	30 -> 31
+	31 -> 32
+	32 -> 33
+	33 -> 34
+	33 -> 35
+	32 -> 36
+	36 -> 37
+	36 -> 38
+	31 -> 39
+	39 -> 40
+	40 -> 41
+	40 -> 42
+	39 -> 43
+	43 -> 44
+	43 -> 45
+	30 -> 46
+	46 -> 47
+	47 -> 48
+	48 -> 49
+	48 -> 50
+	47 -> 51
+	51 -> 52
+	51 -> 53
+	46 -> 54
+	54 -> 55
+	55 -> 56
+	55 -> 57
+	54 -> 58
+	58 -> 59
+	58 -> 60
+}
